@@ -1,10 +1,12 @@
+package com.jumbosoft.paint;
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.SplitPane;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
-import view.WorkPane;
-import view.IntroPane;
+import com.jumbosoft.paint.view.WorkPane;
+import com.jumbosoft.paint.view.IntroPane;
 
 public class Main extends Application {
     private Stage stage;

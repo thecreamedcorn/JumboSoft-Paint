@@ -1,4 +1,4 @@
-package model.tools;
+package com.jumbosoft.paint.model.tools;
 
 import javafx.scene.Node;
 import javafx.scene.canvas.Canvas;
@@ -7,8 +7,8 @@ import javafx.scene.control.Slider;
 import javafx.scene.image.Image;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
-import model.PaintCanvas;
-import model.Tool;
+import com.jumbosoft.paint.model.PaintCanvas;
+import com.jumbosoft.paint.model.Tool;
 
 public class Line extends Tool {
     private Image originalCanvas;
