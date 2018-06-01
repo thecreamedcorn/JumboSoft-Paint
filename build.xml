@@ -22,7 +22,7 @@
       basedir="${classes.dir}"
     >
       <manifest>
-        <attribute name="Main-Class" value="view.Main" />
+        <attribute name="Main-Class" value="Main" />
       </manifest>
     </jar>
   </target>
